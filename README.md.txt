@@ -1,6 +1,8 @@
 Prueba tecnica 30/08/2022
 
-Para el correcto uso de la prueba tecnica se necesita xampp 3.3.0 php 8.1.6
+Para el correcto uso de la prueba tecnica se necesita xampp 3.3.0 php 8.1.6.
+
+La base de datos subida en este repositorio la importamos con el mismo nombre y ya con eso nos debe funcionar la prueba tecnica.
 
 Para crear registros se le da en el simbolo de + Para ver las ventas realizadas se le da en el simbolo de la personita Para realizar una compra se le da en el simbolo del carro de compras Si se desea editar eliminar o ver a detaller solo seleccionamos el registro deseado y nos habilitara las opciones deseadas.
 
