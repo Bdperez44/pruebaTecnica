@@ -1,0 +1,17 @@
+.enviar{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.action{
+    margin: 5px 5px;
+}
+.container{
+    margin-top: 10px;
+}
